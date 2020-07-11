@@ -1,5 +1,6 @@
 # algorithm
 Algorithm practice code
 
-- Sorting
-- Searching
+> Sorting
+- Insertion Sort
+> Searching
